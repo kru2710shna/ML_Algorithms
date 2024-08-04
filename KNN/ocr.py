@@ -59,7 +59,7 @@ def main():
     
     
 def knn(X_train, X_test, k=3):
-    
+    pass
     
 
 if __name__ == "__main__":
